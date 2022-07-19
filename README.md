@@ -4,9 +4,10 @@
 ## Authors
 
 - Fabian Deckmann - [@ffjaervik](https://github.com/ffjaervik) 
+- Kieran Gill - [@KieranWebDev](https://github.com/KieranWebDev)
 - Sam Safari - [@99daycoder](https://github.com/99daycoder/)
 - Jaden Joel - [@jadenjoel](https://github.com/jadenjoel) 
-- Kieran Gill - [@KieranWebDev](https://github.com/KieranWebDev)
+
 
 
 
