@@ -34,15 +34,6 @@ Main Page             |  Potential User Profile Example
  <img src="https://user-images.githubusercontent.com/82081817/176177042-0dd74b1d-86c0-4960-a20b-b945edf2db7d.png" width="100%" />  |   <img src="https://user-images.githubusercontent.com/82081817/176179146-e2558793-2795-4101-b3fe-dae69c9be72d.png" width="100%" />
 
 
-
-
-
-## Our app and its features
-
-The problem we focused on was the amount of unrecognized help bootcampers were offering to each other. We wanted to create a platform that encourages the Bootcamp community to offer additional lessons that might help other students with subjects they struggle with. The platform evolves around a badge system where students can earn badges for the amount of help they offer. The idea is to make these badges an official measurable token that graduates can include in their portfolios and on job applications.
-
-We were very aware that we would not be able to fully implement the badge system given the limited time we had. Thus, we decided that it would be feasible to build an app that allows users to offer Study Sessions and view upcoming Study Sessions. We could then lay the groundwork for the badge features and at least display prototype examples of what this feature would look like.
-
 ### Features 
 
 - The user can post info on their study session in our database by filling out and completing the form
@@ -63,9 +54,6 @@ We were very aware that we would not be able to fully implement the badge system
 
 - Finally we tried to clarify our database structure and created a basic component tree.
 
-
-    
-     
     <table>
 	    <tr>
     	    <td style="padding:10px">
@@ -120,7 +108,21 @@ Although we achieved our MVP goals, we only had 4 days to plan, design and make 
 
 - Create algorithms to implement a deeper badge system; based on session numbers, feedback, rating etc.
 
-##Tech Stack
+## Tech Stack
+### Front-end
+- React
+- React Router
+- CSS
+### Back-end
+- Nodejs
+- Express
+- Heroku
+- PostgresSQL
+### Planning and Design
+- Figma
+- Miro
+- Jamboard
+- Trello
 
 ## Generating the idea
 
