@@ -12,15 +12,18 @@
 
 [Authors](#Authors)
 <br>
-[The Project Brief](#The=Project-Brief)
+[The Project Brief](#The-Project-Brief)
 <br>
 [Our App and it's Features](#Our-App-and-its-Features)
 <br>
+[Ideation and Design](#Ideation-and-Designs)
+<br>
 [The Journey](#The-Journey)
 <br>
-[Tech Stack](#Tech-Stack)
+[Roadmap](#Roadmap)
 <br>
-[Stretch Goals](#Stretch-Goals)
+[Tech Stack](#Tech-Stack)
+
 
 
 ## Authors
