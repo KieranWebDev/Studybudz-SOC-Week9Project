@@ -16,7 +16,7 @@
 <br>
 [Our App and it's Features](#Our-App-and-its-Features)
 <br>
-[Ideation and Design](#Ideation-and-Designs)
+[Ideation and Design](#Ideation-and-Design)
 <br>
 [The Journey](#The-Journey)
 <br>
