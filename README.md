@@ -12,7 +12,7 @@
 
 [Authors](#Authors)
 <br>
-[The-Team](#The-Team)
+[The Project Brief](#The=Project-Brief)
 <br>
 [Our App and it's Features](#Our-App-and-its-Features)
 <br>
