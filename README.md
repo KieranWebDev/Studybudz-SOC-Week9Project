@@ -8,6 +8,20 @@
 	View The Website <a href='https://kieran-gill-week9-project.vercel.app/'>here</a>
 </h3>
 
+## Contents
+
+[Authors](#Authors)
+<br>
+[The-Team](#The-Team)
+<br>
+[Our App and it's Features](#Our-App-and-its-Features)
+<br>
+[The Journey](#The-Journey)
+<br>
+[Tech Stack](#Tech-Stack)
+<br>
+[Stretch Goals](#Stretch-Goals)
+
 
 ## Authors
 
