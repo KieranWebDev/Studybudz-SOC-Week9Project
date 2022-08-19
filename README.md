@@ -93,6 +93,35 @@ We were very aware that we would not be able to fully implement the badge system
             </tr>
     </table>
 
+## The Journey 
+### What we learned, the challenges we faced and how we overcame them
+- This was our first big project and the first time we had made a Full Stack Application. So, although we were happy with the outcome, many mistakes were made along the way. However, we felt that we learned from these mistakes and they helped to prepare us for the big final project a few weeks later. 
+
+- We followed the Agile methodology throughout the project, with daily standups and retros. We really got along well and quickly created a psychologically safe environment to work in. This helped to keep us engaged and motivated throughout. We celebrated the small wins together, shared a few jokes and supported each other when we hit the brick walls. 
+
+- The biggest problem we faced was trying to get the front and the back end to talk to each other.  We realised how important it is to plan and clarify data structure and key names before coding. After some head scratching and spikes in blood pressure, we realised that one of our object key names on the front end did not match the key name on the back end. Had we realised this earlier, we could have had more time to do some of the things we wanted such as stretch goals and testing etc. But hey, it’s all part of the learning process and it’s a mistake I’m sure we will be very hesitant to make again. We managed to solve this problem (and therefore create our first FullStack app!) with less than a minute to spare at the end of the day. Just enough time for us to celebrate and woop with joy! 
+
+- Upon initial render, the data from the back-end can take a long time to load. However, we were able to solve this by adding a loading message with the help of a tutorial from the legendary NetNinja.
+
+- We had some applying CSS to our site and got to play around with and thus deepen our knowledge of flexbox.
+
+## Roadmap
+Although we achieved our MVP goals, we only had 4 days to plan, design and make our App. Therefore there are a number of features that we were not able to implement. Below we detail some of the features we would have implemented if we had more time.
+
+### Week 1
+
+- Implement some unit tests and end-to-end testing
+- Complete the Search for Sessions feature.
+- Create Admin Dashboard
+- Create account and login features (with Auth0)
+- Implement basic badge system for users. (e.g badges for posting or attending sessions)
+
+### Week 2
+
+- Create algorithms to implement a deeper badge system; based on session numbers, feedback, rating etc.
+
+##Tech Stack
+
 ## Generating the idea
 
 After concluding a research in form of a questionaire. We gathered some intel on topics that bootcampers struggled with and combined those with our personal experiences.
